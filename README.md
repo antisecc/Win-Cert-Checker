@@ -23,5 +23,3 @@ The script supports an optional parameter for specifying a custom certificate st
 
 ``` .\Search-VulnerableCertificates.ps1 -CertStoreLocation 'Cert:\LocalMachine\My' ``` 
 
-# Disclaimer
-This script provides a basic overview of potential certificate vulnerabilities and is not a comprehensive security assessment tool. It is recommended to perform thorough security analyses using specialized tools for in-depth assessments.
